@@ -1,2 +1,2 @@
 # Replit_Solutions
-I try to give solution about Replit for Cyber
+I try to give solution about Replit 
